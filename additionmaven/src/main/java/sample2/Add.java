@@ -6,6 +6,8 @@ public class Add {
 	int b=20;
 	int c=a+b;
 	System.out.println("Sum is "+c);
+	System.out.println("My commit to github");
+	
 	}
 
 }
